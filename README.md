@@ -41,19 +41,11 @@ A full-stack expense tracking application built with **React**, **Node.js**, **E
 ![Screenshot 2025-04-15 150152](https://github.com/user-attachments/assets/2d18a290-7b2b-45e0-9485-1aa705fd34fb)
 
 
-## Demo Video Link - https://www.youtube.com/watch?v=RCZkITc9gkY
-
 
 ## 📍 Getting Started
 
-### 1. Clone the Repository
 
-```bash
-git clone https://github.com/HarshDhumal/Expense-Tracker-FullStack.git
-cd Expense-Tracker-FullStack
-```
-
-### 2. Set Up Backend
+### 1. Set Up Backend
 
 ```bash
 cd backend
@@ -62,7 +54,7 @@ npm install
 npm run dev
 ```
 
-### 3. Set Up Frontend
+### 2. Set Up Frontend
 
 ```bash
 cd frontend
